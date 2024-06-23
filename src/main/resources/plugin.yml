@@ -1,0 +1,8 @@
+name: BetterTrails
+version: '${project.version}'
+main: me.psikuvit.bettertrails.BetterTrails
+api-version: '1.13'
+
+commands:
+  flighttrails:
+    aliases: ft
